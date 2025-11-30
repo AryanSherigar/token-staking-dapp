@@ -1,6 +1,6 @@
 # Token Staking DApp
 
-This decentralized application allows users to stake their tokens and earn rewards in a secure and transparent manner. It is deployed on Polygon Mumbai Testnet.
+This decentralized application allows users to stake their tokens and earn rewards in a secure and transparent manner. It is deployed on Polygon Amoy Testnet.
 
 ## Table of Contents
 
